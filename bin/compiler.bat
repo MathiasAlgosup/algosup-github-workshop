@@ -1,0 +1,3 @@
+assetc.exe ../resources
+
+pause

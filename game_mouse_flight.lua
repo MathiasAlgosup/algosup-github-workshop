@@ -6,7 +6,7 @@ hg.InputInit()
 hg.WindowSystemInit()
 
 res_x, res_y = 1280, 720
-win = hg.RenderInit('Harfang - Mouse Flight', res_x, res_y, hg.RF_VSync | hg.RF_MSAA8X)
+win = hg.RenderInit('Harfang - 9/11 Simulator', res_x, res_y, hg.RF_VSync | hg.RF_MSAA8X)
 
 res = hg.PipelineResources()
 pipeline = hg.CreateForwardPipeline()
